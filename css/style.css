@@ -30,7 +30,7 @@ footer{
     /* margin-bottom: 0rem; */
 }
 
-.registration{
+.registration, .onlineTest{
     display: flex;
     margin-top: 1rem;
     /* align-content: center; */
@@ -45,14 +45,17 @@ footer{
     padding: 2rem;
     /* align-content: center; */
     text-align: center;
+    max-width: 30rem;
 
 }
 form .f{
     padding: 1rem;
     display: flex;
-    justify-content: space-between;
+    /* justify-content: space-between; */
+    /* padding-left: ; */
 
 }
+
 /* form i */
 /* .card-body{
     background-color: #B552FF;
